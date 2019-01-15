@@ -1,2 +1,2 @@
 <?php
-$lang['insertcode'] = 'Code einfügen';
+$lang['insertcode'] = 'Code_einfügen';

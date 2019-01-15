@@ -1,0 +1,7 @@
+base codebuttongs
+author Heiko Barth (patch by Georg Schmidt)
+email  gs-develop@gs-sys.de (Georg Schmidt)
+date   2019-01-15
+name   Toolbar Code Button GS
+desc   Inserts a code button into the toolbar.
+url    https://github.com/user9209/dokuwiki_plugin_codebutton/
