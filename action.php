@@ -2,14 +2,14 @@
 /**
  * Action Plugin: Inserts a button into the toolbar to add file tags
  *
- * @author Heiko Barth
+ * @author Georg Schmidt, Heiko Barth
  */
  
 if (!defined('DOKU_INC')) die();
 if (!defined('DOKU_PLUGIN')) define('DOKU_PLUGIN', DOKU_INC . 'lib/plugins/');
 require_once (DOKU_PLUGIN . 'action.php');
  
-class action_plugin_codebuttongs extends DokuWiki_Action_Plugin {
+class action_plugin_codebuttonmod1 extends DokuWiki_Action_Plugin {
 
     /**
      * Register the eventhandlers
