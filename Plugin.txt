@@ -1,0 +1,48 @@
+====== CodeButton Mod 1 Plugin (codebuttonmod1) ======
+
+---- plugin ----
+description: Inserts a code button into the toolbar.
+author     : Georg Schmidt
+email      : gs-develop@gs-sys.de
+type       : action
+lastupdate : 2019-01-19
+compatible : 2018-04-22b
+depends    : 
+similar    : codebutton, custombuttons
+tags       : button, code, toolbar
+
+downloadurl: https://github.com/user9209/dokuwiki_plugin_codebutton/archive/master.zip
+bugtracker: https://github.com/user9209/dokuwiki_plugin_codebutton/issues
+sourcerepo: https://github.com/user9209/dokuwiki_plugin_codebutton/
+donationurl: 
+
+screenshot_img : 
+----
+
+===== Installation =====
+
+Search and install the plugin **"codebuttonmod1"** using the Extension Manager.
+
+or
+
+Install the plugin over the webfrontend by using the url:
+
+https://github.com/user9209/dokuwiki_plugin_codebutton/archive/master.zip
+
+===== Syntax and Usage =====
+
+After installation you'll find a new button at the end of your regular toolbar. Use them to add "''<code>Insert_Code</code>''" to your DokuWiki markup.
+
+=== Author ===
+  * Georg Schmidt (Mod 1) [[https://github.com/user9209/dokuwiki_plugin_codebutton|Plugin on GitHub]]
+  * Heiko Barth (Original) [[https://github.com/casperklein/dokuwiki_plugin_codebutton|Plugin on GitHub]]
+
+=== Change Log ===
+  * **2019-01-19**
+    * Update plugin name and id
+  * **2019-01-16**
+    * Fork from [codebutton](https://www.dokuwiki.org/plugin:codebutton)	
+
+=== Known Bugs and Issues ===
+
+  * not yet known
