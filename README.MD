@@ -26,5 +26,5 @@ Search and install "codebutton"
 
 - Default **title** is set to "download"
 - *file* has been replaced by **code**
-- *Placeholder text* and select by a **single double click**.
+- *Placeholder text* can select by a **single double click**.
 - **plugin.info.txt** for easy setup using a named zip file
