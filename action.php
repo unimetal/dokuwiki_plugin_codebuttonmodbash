@@ -25,7 +25,7 @@ class action_plugin_codebuttonmod1 extends DokuWiki_Action_Plugin {
         $event->data[] = array (
             'type' => 'format',
             'title' => $this->getLang('insertcode'),
-            'icon' => '../../plugins/codebuttongs/image/code.png',
+            'icon' => '../../plugins/codebuttonmod1/image/code.png',
             'open' => '<code | download>\n',
             'close' => '\n</code>',
         );
