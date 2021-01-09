@@ -44,6 +44,8 @@ After installation you'll find a new button at the end of your regular toolbar. 
   * Heiko Barth (Original) [[https://github.com/casperklein/dokuwiki_plugin_codebutton|Plugin on GitHub]]
 
 === Change Log ===
+  * **2021-01-09**
+    * Icon path fixed
   * **2019-01-19**
     * Update plugin name and id
   * **2019-01-16**
