@@ -1,7 +1,7 @@
 base codebuttonmod1
 author Georg Schmidt
 email  gs-develop@gs-sys.de
-date   2019-01-19
+date   2021-01-09
 name   Toolbar Code Button - Mod 1
 desc   Inserts a code button into the toolbar.
 url    https://github.com/user9209/dokuwiki_plugin_codebutton/

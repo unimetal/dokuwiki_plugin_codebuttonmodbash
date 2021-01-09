@@ -5,7 +5,7 @@ description: Inserts a code button into the toolbar.
 author     : Georg Schmidt
 email      : gs-develop@gs-sys.de
 type       : action
-lastupdate : 2019-01-19
+lastupdate : 2021-01-09
 compatible : 2018-04-22b
 depends    : 
 similar    : codebutton, custombuttons
