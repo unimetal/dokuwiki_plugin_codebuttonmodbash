@@ -26,7 +26,7 @@ https://github.com/david-it/dokuwiki_plugin_codebutton/releases/tag/v1.2.3
 By RottenRonnie:  
 https://github.com/RottenRonnie/dokuwiki_plugin_codebutton/archive/master.zip
 
-By AnonTester:
+By AnonTester:  
 https://github.com/AnonTester/dokuwiki_plugin_codebutton/archive/master.zip
 
 **Orginal Version:**
