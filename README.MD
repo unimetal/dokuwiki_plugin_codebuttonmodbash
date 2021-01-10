@@ -10,8 +10,19 @@ In the default toolbar there is no code button available. This plugin will add o
 
 **Mod 1 version:**
 
+Search and install "codebuttonmod1"
+
+or
+
 Install the plugin over the webfrontend by using the url:  
 https://github.com/user9209/dokuwiki_plugin_codebutton/archive/master.zip
+
+
+**Other mods**
+
+By RottenRonnie:  
+https://github.com/RottenRonnie/dokuwiki_plugin_codebutton/archive/master.zip
+
 
 **Orginal Version:**
 
