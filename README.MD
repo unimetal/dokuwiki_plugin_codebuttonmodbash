@@ -18,11 +18,16 @@ Install the plugin over the webfrontend by using the url:
 https://github.com/user9209/dokuwiki_plugin_codebutton/archive/master.zip
 
 
-**Other mods**
+**Other mods (untested)**
+
+By david-it:   
+https://github.com/david-it/dokuwiki_plugin_codebutton/releases/tag/v1.2.3
 
 By RottenRonnie:  
 https://github.com/RottenRonnie/dokuwiki_plugin_codebutton/archive/master.zip
 
+By AnonTester:
+https://github.com/AnonTester/dokuwiki_plugin_codebutton/archive/master.zip
 
 **Orginal Version:**
 
