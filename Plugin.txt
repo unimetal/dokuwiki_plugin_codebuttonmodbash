@@ -1,4 +1,4 @@
-====== CodeButton Mod bash Plugin (codebuttonmodbash) ======
+====== codebuttonmodbash Plugin ======
 
 ---- plugin ----
 description: Inserts a bash code button into the toolbar.
@@ -11,7 +11,7 @@ depends    :
 similar    : codebutton, custombuttons
 tags       : button, code, toolbar, bash
 
-downloadurl: https://github.com/unimetal/dokuwiki_plugin_codebuttonmodbash/archive/master.zip
+downloadurl: https://github.com/unimetal/dokuwiki_plugin_codebuttonmodbash/zipball/master
 bugtracker: https://github.com/unimetal/dokuwiki_plugin_codebuttonmodbash/issues
 sourcerepo: https://github.com/unimetal/dokuwiki_plugin_codebuttonmodbash
 donationurl: 
@@ -54,4 +54,11 @@ After installation you'll find a new button at the end of your regular toolbar. 
 
 === Known Bugs and Issues ===
 
-  * not yet known
+  * CAUTION - NOT TESTED YET - DO NOt iNSTALL
+
+=== ToDo/Wish List ===
+
+  * Settings file to edit bash string
+
+===== FAQ =====
+
