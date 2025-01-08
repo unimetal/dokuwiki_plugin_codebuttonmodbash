@@ -1,33 +1,41 @@
 <?php
+
+use dokuwiki\Extension\ActionPlugin;
+use dokuwiki\Extension\EventHandler;
+use dokuwiki\Extension\Event;
+
 /**
  * Action Plugin: Inserts a button into the toolbar to add file tags
  *
  * @author Simon Jacob, Georg Schmidt, Heiko Barth
  */
- 
-if (!defined('DOKU_INC')) die();
-if (!defined('DOKU_PLUGIN')) define('DOKU_PLUGIN', DOKU_INC . 'lib/plugins/');
-require_once (DOKU_PLUGIN . 'action.php');
- 
-class action_plugin_codebuttonmodbash extends DokuWiki_Action_Plugin {
+  
+class action_plugin_codebuttonmodbash extends ActionPlugin {
 
     /**
-     * Register the eventhandlers
+     * Register the event handlers
+     * 
+     * @param EventHandler $controller DokuWiki's event controller object
      */
-    function register(Doku_Event_Handler $controller) {
-        $controller->register_hook('TOOLBAR_DEFINE', 'AFTER', $this, 'insert_button', array ());
+    public function register(EventHandler $controller) {
+        $controller->register_hook('TOOLBAR_DEFINE', 'AFTER', $this, 'insert_button', []);
     }
  
     /**
      * Inserts the toolbar button
+     * 
+     * @param Event $event event object
+     * @param mixed $param [the parameters passed as fifth argument to 
+     *                      register_hook() when this handler was registered, 
+     *                      here just an empty array..] 
      */
-    function insert_button(& $event, $param) {
-        $event->data[] = array (
+    public function insert_button(Event $event, $param) {
+        $event->data[] = [
             'type' => 'format',
             'title' => $this->getLang('insertcodebash'),
-            'icon' => '../../plugins/codebuttonmodbash/image/codebash.png',
-            'open' => '<code | download>\n',
+            'icon' => '../../plugins/codebuttonmodbash/codebash.png',
+            'open' => '<code=BASH>\n',
             'close' => '\n</code>',
-        );
+        ];
     }
 }
