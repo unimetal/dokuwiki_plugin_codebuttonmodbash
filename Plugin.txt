@@ -51,8 +51,8 @@ After installation you'll find a new button at the end of your regular toolbar. 
     * Icon path fixed
   * **2019-01-19**
     * Update plugin name and id
-  * **2019-01-16**
-    * Fork from [codebutton](https://www.dokuwiki.org/plugin:codebutton)	
+  * **2025-01-08**
+    * Fork from [codebutton](https://www.dokuwiki.org/plugin:codebuttonmod2)	
 
 === Known Bugs and Issues ===
 
