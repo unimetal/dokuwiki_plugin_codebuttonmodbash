@@ -38,9 +38,11 @@ Search and install "codebuttonmod1"
 - Georg Schmidt (parts of Mod 1) [Plugin on GitHub](https://github.com/user9209/dokuwiki_plugin_codebutton)
 - Heiko Barth (Original) [Plugin on GitHub](https://github.com/casperklein/dokuwiki_plugin_codebutton)
 
-### Mod 1 contains
+## Mod bash contents
+- Default title is set to "$this->getLang('insertcode')"
+- code.png icon replaced with 
 
-- Default **title** is set to "download"
+### parts from Mod 1
 - *file* has been replaced by **code**
 - *Placeholder text* can select by a **single double click**.
 - **plugin.info.txt** for easy setup using a named zip file
