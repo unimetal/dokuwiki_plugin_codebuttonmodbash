@@ -9,7 +9,7 @@ if (!defined('DOKU_INC')) die();
 if (!defined('DOKU_PLUGIN')) define('DOKU_PLUGIN', DOKU_INC . 'lib/plugins/');
 require_once (DOKU_PLUGIN . 'action.php');
  
-class action_plugin_codebuttonmod1 extends DokuWiki_Action_Plugin {
+class action_plugin_codebuttonmodbash extends DokuWiki_Action_Plugin {
 
     /**
      * Register the eventhandlers
@@ -24,8 +24,8 @@ class action_plugin_codebuttonmod1 extends DokuWiki_Action_Plugin {
     function insert_button(& $event, $param) {
         $event->data[] = array (
             'type' => 'format',
-            'title' => $this->getLang('insertcode'),
-            'icon' => '../../plugins/codebuttonmod1/image/code.png',
+            'title' => $this->getLang('insertcodebash'),
+            'icon' => '../../plugins/codebuttonmodbash/image/codebash.png',
             'open' => '<code | download>\n',
             'close' => '\n</code>',
         );

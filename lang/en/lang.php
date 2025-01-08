@@ -1,2 +1,2 @@
 <?php
-$lang['insertcode'] = 'Insert_Code';
+$lang['insertcodebash'] = 'Insert_BASH_Code';
