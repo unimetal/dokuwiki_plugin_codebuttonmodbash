@@ -7,7 +7,7 @@ use dokuwiki\Extension\Event;
 /**
  * Action Plugin: Inserts a button into the toolbar to add file tags
  *
- * @author Simon Jacob, Georg Schmidt, Heiko Barth
+ * @author Simon Jacob, Gina Haeussge
  */
   
 class action_plugin_codebuttonmodbash extends ActionPlugin {
