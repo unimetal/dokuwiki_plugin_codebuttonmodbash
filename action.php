@@ -2,7 +2,7 @@
 /**
  * Action Plugin: Inserts a button into the toolbar to add file tags
  *
- * @author Georg Schmidt, Heiko Barth
+ * @author Simon Jacob, Georg Schmidt, Heiko Barth
  */
  
 if (!defined('DOKU_INC')) die();
