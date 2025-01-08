@@ -27,7 +27,7 @@ or
 
 Install the plugin over the webfrontend by using the url:
 
-https://github.com/unimetal/dokuwiki_plugin_codebuttonmodbash/archive/master.zip
+https://github.com/unimetal/dokuwiki_plugin_codebuttonmodbash/zipball/master
 
 ===== Syntax and Usage =====
 
