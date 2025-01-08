@@ -1,4 +1,4 @@
-# CodeButtonMod 1 Plugin - Toolbar Code Button
+# CodeButtonModBash Plugin - Toolbar BCode Button
 
 
 
@@ -10,7 +10,7 @@ In the default toolbar there is no code button available. This plugin will add o
 
 **Mod 1 version:**
 
-Search and install "codebuttonmod1"
+Search and install "codebuttonmodbash"
 
 or
 
@@ -31,11 +31,11 @@ https://github.com/AnonTester/dokuwiki_plugin_codebutton/archive/master.zip
 
 **Orginal Version:**
 
-Search and install "codebutton"
+Search and install "codebuttonmod1"
 
 ### Author
-
-- Georg Schmidt (Mod 1) [Plugin on GitHub](https://github.com/user9209/dokuwiki_plugin_codebutton)
+- Simon Jacob (Mod Bash) [Plugin on GitHub](https://github.com/unimetal/dokuwiki_plugin_codebuttonmodbash)
+- Georg Schmidt (parts of Mod 1) [Plugin on GitHub](https://github.com/user9209/dokuwiki_plugin_codebutton)
 - Heiko Barth (Original) [Plugin on GitHub](https://github.com/casperklein/dokuwiki_plugin_codebutton)
 
 ### Mod 1 contains
