@@ -1,12 +1,12 @@
-====== CodeButton Mod 1 Plugin (codebuttonmodbash) ======
+====== CodeButton Mod bash Plugin (codebuttonmodbash) ======
 
 ---- plugin ----
 description: Inserts a bash code button into the toolbar.
-author     : Georg Schmidt
-email      : gs-develop@gs-sys.de
+author     : Simon Jacob
+email      : dev@unimetal.me
 type       : action
-lastupdate : 2021-01-09
-compatible : 2018-04-22b
+lastupdate : 2025-01-08
+compatible : 2024-02-06b
 depends    : 
 similar    : codebutton, custombuttons
 tags       : button, code, toolbar, bash
@@ -47,9 +47,7 @@ After installation you'll find a new button at the end of your regular toolbar. 
   * Heiko Barth (Original) [[https://github.com/casperklein/dokuwiki_plugin_codebutton|Plugin on GitHub]]
 
 === Change Log ===
-  * **2021-01-09**
-    * Icon path fixed
-  * **2019-01-19**
+  * **2025-01-08**
     * Update plugin name and id
   * **2025-01-08**
     * Fork from [codebutton](https://www.dokuwiki.org/plugin:codebuttonmod2)	
