@@ -31,7 +31,7 @@ https://github.com/unimetal/dokuwiki_plugin_codebuttonmodbash/archive/master.zip
 
 ===== Syntax and Usage =====
 
-After installation you'll find a new button at the end of your regular toolbar. Use them to add "''<code>Insert_Code</code>''" to your DokuWiki markup.
+After installation you'll find a new button at the end of your regular toolbar. Use them to add "''<code=BASH>Insert_Code</code>''" to your DokuWiki markup.
 
 === Mod bash contents ===
   * Default title is set to "$this->getLang('insertcode')"
