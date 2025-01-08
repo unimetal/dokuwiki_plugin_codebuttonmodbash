@@ -8,7 +8,7 @@ In the default toolbar there is no code button available. This plugin will add o
 
 ### Install
 
-**Mod 1 version:**
+**Mod bash version:**
 
 Search and install "codebuttonmodbash"
 
