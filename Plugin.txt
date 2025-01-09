@@ -35,6 +35,8 @@ After installation you'll find a new button at the end of your regular toolbar. 
 
 === Mod bash contents ===
   * Default title is set to "$this->getLang('insertcode')"
+  * using updated examples to create plugin
+  * new (green) icon 
 
 === contents from Mod 1 ===
   * file has been replaced by code
