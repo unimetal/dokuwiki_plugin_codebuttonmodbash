@@ -35,10 +35,10 @@ class action_plugin_codebuttonmodbash extends ActionPlugin {
         $insert = $this->getLang('insert');
         
         $event->data[] = [
-            'type' => 'format',
+            'type' => $insert.': <code='.$codeStr.'>...</code>',
             'title' => $this->getLang('insertcodebash'),
             'icon' => '../../plugins/codebuttonmodbash/codebash.png',
-            'open' => $insert.': <code='.$codeStr.'>\n',
+            'open' => '<code='.$codeStr.'>\n',
             'close' => '\n</code>',
         ];
     }
