@@ -49,6 +49,8 @@ After installation you'll find a new button at the end of your regular toolbar. 
   * Heiko Barth (Original) [[https://github.com/casperklein/dokuwiki_plugin_codebutton|Plugin on GitHub]]
 
 === Change Log ===
+  * **2025-01-10**
+    * Added codeStr Parameter to modify <code=$codeStr>...</code> in config.
   * **2025-01-08**
     * Update plugin name and id
   * **2025-01-08**

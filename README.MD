@@ -40,7 +40,8 @@ Search and install "codebuttonmod1"
 
 ## Mod bash contents
 - Default title is set to "$this->getLang('insertcode')"
-- code.png icon replaced with 
+- code.png icon replaced with codebash.png
+- Added codeStr Parameter to modify <code=$codeStr>...</code> in config.
 
 ### parts from Mod 1
 - *file* has been replaced by **code**

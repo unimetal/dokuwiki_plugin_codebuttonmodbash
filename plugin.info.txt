@@ -3,5 +3,5 @@ author Simon Jacob
 email  dev@unimetal.me
 date   2025-01-08
 name   Toolbar Code Button - Mod bash
-desc   Inserts a code button into the toolbar.
+desc   Inserts a code button into the toolbar with the possibility to modify code type in config.
 url    https://www.dokuwiki.org/plugin:codebuttonmodbash
