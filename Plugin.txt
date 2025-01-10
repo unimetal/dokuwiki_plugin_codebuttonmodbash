@@ -58,11 +58,8 @@ After installation you'll find a new button at the end of your regular toolbar. 
 
 === Known Bugs and Issues ===
 
-  * CAUTION - NOT TESTED YET - DO NOt iNSTALL
+  * no known bugs
 
 === ToDo/Wish List ===
 
   * <del>Settings file to edit bash string</del>
-
-===== FAQ =====
-
