@@ -1,4 +1,4 @@
-# CodeButtonModBash Plugin - Toolbar BCode Button
+# CodeButtonModBash Plugin - Toolbar to add bash Code Button
 
 
 
