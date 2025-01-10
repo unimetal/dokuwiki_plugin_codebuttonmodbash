@@ -44,7 +44,7 @@ After installation you'll find a new button at the end of your regular toolbar. 
   * plugin.info.txt for easy setup using a named zip file
 
 === Author ===
-  * Simon Jacob (Mod bash) [https://github.com/unimetal/dokuwiki_plugin_codebuttonmodbash|Plugin on GitHub]
+  * Simon Jacob (Mod bash) [[https://github.com/unimetal/dokuwiki_plugin_codebuttonmodbash|Plugin on GitHub]]
   * Georg Schmidt (Mod 1) [[https://github.com/user9209/dokuwiki_plugin_codebutton|Plugin on GitHub]]
   * Heiko Barth (Original) [[https://github.com/casperklein/dokuwiki_plugin_codebutton|Plugin on GitHub]]
 
