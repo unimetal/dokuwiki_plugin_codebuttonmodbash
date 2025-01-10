@@ -4,4 +4,4 @@
  *
  */
 
- $lang['codeStr'] = 'Define value of codeStr => <code=[codeStr]>...</code>';
+ $lang['codeStr'] = 'Define value of codeStr =codeStr, default = BASH ';

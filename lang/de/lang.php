@@ -1,2 +1,2 @@
 <?php
-$lang['insertcodebash'] = 'BASH_Code_einfügen';
+$lang['insertcodebash'] = getConf('codeStr').'_Code einfügen';
