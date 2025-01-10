@@ -31,7 +31,7 @@ https://github.com/unimetal/dokuwiki_plugin_codebuttonmodbash/zipball/master
 
 ===== Syntax and Usage =====
 
-After installation you'll find a new button at the end of your regular toolbar. Use them to add "''<code=BASH>Insert_Code</code>''" to your DokuWiki markup.
+After installation you'll find a new button at the end of your regular toolbar. Use them to add "''<code bash>Insert_Code</code>''" to your DokuWiki markup.
 
 === Mod bash contents ===
   * Default title is set to "$this->getLang('insertcode')"
@@ -50,7 +50,7 @@ After installation you'll find a new button at the end of your regular toolbar. 
 
 === Change Log ===
   * **2025-01-10**
-    * Added codeStr Parameter to modify <code=$codeStr>...</code> in config.
+    * Added codeStr Parameter to modify <code $codeStr>...</code> in config.
   * **2025-01-08**
     * Update plugin name and id
   * **2025-01-08**

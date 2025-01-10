@@ -4,4 +4,4 @@
  *
  */
 
-$conf['codeStr'] = 'BASH';
+$conf['codeStr'] = 'bash';

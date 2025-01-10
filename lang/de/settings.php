@@ -4,4 +4,4 @@
  *
  */
 
- $lang['codeStr'] = 'Definiere Wert für den Parameter codeStr, Standard = BASH ';
+ $lang['codeStr'] = 'Definiere Wert für den Parameter codeStr, Standard = bash ';
