@@ -35,8 +35,8 @@ class action_plugin_codebuttonmodbash extends ActionPlugin {
         $insert = $this->getLang('insert');
         
         $event->data[] = [
-            'type' => $insert.': <code='.$codeStr.'>...</code>',
-            'title' => $this->getLang('insertcodebash'),
+            'type' => 'format',
+            'title' => $insert.': <code='.$codeStr.'>...</code>',
             'icon' => '../../plugins/codebuttonmodbash/codebash.png',
             'open' => '<code='.$codeStr.'>\n',
             'close' => '\n</code>',
